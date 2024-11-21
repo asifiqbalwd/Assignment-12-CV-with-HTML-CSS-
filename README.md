@@ -1,5 +1,4 @@
 # Assignment-12-CV-with-HTML-CSS-
-# Assignment-12-CV-with-HTML-CSS-
 
 # ASIF IQBAL - Full Stack Web Developer
 
